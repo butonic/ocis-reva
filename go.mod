@@ -4,8 +4,7 @@ go 1.13
 
 require (
 	github.com/cespare/xxhash/v2 v2.1.1 // indirect
-	github.com/cs3org/go-cs3apis v0.0.0-20191218073906-e3405ff6775e // indirect
-	github.com/cs3org/reva v0.0.2-0.20200115110931-4c7513415ec5
+	github.com/cs3org/reva v0.0.2-0.20200212114015-0dbce24f7e8b
 	github.com/gofrs/uuid v3.2.0+incompatible
 	github.com/gopherjs/gopherjs v0.0.0-20181103185306-d547d1d9531e // indirect
 	github.com/micro/cli/v2 v2.1.1
