@@ -80,7 +80,6 @@ func Execute() error {
 			AuthBasic(cfg),
 			AuthBearer(cfg),
 			Sharing(cfg),
-			StorageRoot(cfg),
 			StorageHome(cfg),
 			StorageHomeData(cfg),
 			StorageOC(cfg),
